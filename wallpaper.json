@@ -59,6 +59,12 @@
       "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master//yossli10.jpg",
       "name": "yossli10",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli10p.jpg"
+    },
+    {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli11.jpeg",
+      "name": "yossli11",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli11p.jpg"
     }
   ]
 }
