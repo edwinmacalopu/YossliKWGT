@@ -1,106 +1,35 @@
 {
   "wallpapers": [
+ 
     {
       "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli01.jpeg",
-      "name": "yossli01",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli01p.jpg"
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli22.jpg",
+      "name": "yossli23",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli22.jpg"
+    }
+    {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli21.jpg",
+      "name": "yossli22",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli21.jpg"
     },
     {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli02.jpeg",
-      "name": "yossli02",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli02p.jpg"
+      "author": "wxllpaper",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaper26.png",
+      "name": "yossli21",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaper26.png"
     },
-    {
+ {
       "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli03.jpeg",
-      "name": "yossli03",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli03p.jpg"
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli20.jpg",
+      "name": "yossli20",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli20p.png"
     },
-    {
+ {
       "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli04.jpeg",
-      "name": "yossli04",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli04p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli05.jpeg",
-      "name": "yossli05",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli05p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli06.jpg",
-      "name": "yossli06",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli06p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli07.png",
-      "name": "yossli07",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli07p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli08.jpg",
-      "name": "yossli08",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli08p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli09.jpg",
-      "name": "yossli09",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli09p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master//yossli10.jpg",
-      "name": "yossli10",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli10p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli11.jpeg",
-      "name": "yossli11",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli11p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli12.jpg",
-      "name": "yossli12",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli12p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli13.jpg",
-      "name": "yossli13",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli13p.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli14.png",
-      "name": "yossli14",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli14p.png"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli15.png",
-      "name": "yossli15",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli15p.png"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli16.png",
-      "name": "yossli16",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli16p.png"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli17.png",
-      "name": "yossli17",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli17p.png"
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli19.png",
+      "name": "yossli19",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli19p.png"
     },
     {
       "author": "unsplash",
@@ -110,33 +39,105 @@
     },
     {
       "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli19.png",
-      "name": "yossli19",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli19p.png"
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli17.png",
+      "name": "yossli17",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli17p.png"
+    },
+{
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli16.png",
+      "name": "yossli16",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli16p.png"
+    },
+  {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli15.png",
+      "name": "yossli15",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli15p.png"
+    },
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli14.png",
+      "name": "yossli14",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli14p.png"
     },
     {
       "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli20.jpg",
-      "name": "yossli20",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli20p.png"
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli13.jpg",
+      "name": "yossli13",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli13p.jpg"
+    }, 
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli12.jpg",
+      "name": "yossli12",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli12p.jpg"
     },
-    {
-      "author": "wxllpaper",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaper26.png",
-      "name": "yossli21",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaper26.png"
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli11.jpeg",
+      "name": "yossli11",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli11p.jpg"
+    },
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master//yossli10.jpg",
+      "name": "yossli10",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli10p.jpg"
+    },
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli09.jpg",
+      "name": "yossli09",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli09p.jpg"
+    },
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli08.jpg",
+      "name": "yossli08",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli08p.jpg"
+    },
+  {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli07.png",
+      "name": "yossli07",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli07p.jpg"
+    },
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli06.jpg",
+      "name": "yossli06",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli06p.jpg"
+    },
+  {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli05.jpeg",
+      "name": "yossli05",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli05p.jpg"
+    },
+       {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli04.jpeg",
+      "name": "yossli04",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli04p.jpg"
+    },
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli03.jpeg",
+      "name": "yossli03",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli03p.jpg"
+    },
+ {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli02.jpeg",
+      "name": "yossli02",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli02p.jpg"
     },
     {
       "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli21.jpg",
-      "name": "yossli22",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli21.jpg"
-    },
-    {
-      "author": "unsplash",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli22.jpg",
-      "name": "yossli23",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli22.jpg"
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli01.jpeg",
+      "name": "yossli01",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli01p.jpg"
     }
   ]
 }
