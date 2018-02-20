@@ -1,7 +1,12 @@
 {
   "wallpapers": [
  
-    
+    {
+      "author": "matej rieciciar",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/matejrieciciar.jpg",
+      "name": "yossli27",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/matejrieciciar.jpg"
+    },
     {
       "author": "BisBiwas",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/BisBiwasW.png",
