@@ -1,7 +1,12 @@
 {
   "wallpapers": [
  
-    
+    {
+      "author": "edwin macalopu",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/new_york_edwin.png",
+      "name": "yossli29",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/new_york_edwin.png"
+    },
     {
       "author": "edwin macalopu",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/rome_edwin.png",
